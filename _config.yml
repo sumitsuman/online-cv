@@ -14,15 +14,15 @@ style: styles-6
 
 #Profile information
 name: Sumit Suman
-tagline: 
+tagline: Resume
 pic: sumit_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 #email: sumitsuman+r@gmail.com
 #website: sumitsuman.com #do not add http://
-email: sumitsuman@gmail.com
+email: sumitsuman.pro+resume@gmail.com
 linkedin: sumitsuman
-github: sumitsuman
+#github: sumitsuman
 twitter: '@anothersumit'
 
 
